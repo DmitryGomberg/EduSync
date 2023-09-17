@@ -2,7 +2,7 @@
 
 <h2><b>Student assistant application🗺️🚶‍♂️</b></h2>
 
-The Student Assistant application is a convenient tool for first-year students who are just starting to study at a new university. One of the main problems of these students is the difficulty of navigating a new place, as well as planning their day and finding the right audience.
+<p>The Student Assistant application is a convenient tool for first-year students who are just starting to study at a new university. One of the main problems of these students is the difficulty of navigating a new place, as well as planning their day and finding the right audience.<p/>
 
 <h3>Problem❓:</h3> First-year students find it difficult to get used to their new place of study, plan their day, find an audience, etc.
 
