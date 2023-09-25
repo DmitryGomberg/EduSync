@@ -1,4 +1,4 @@
-# UniversityMap
+# EduSinc - приложение-помощник для студента
 
 <h2><b>Student assistant application🗺️🚶‍♂️</b></h2>
 
