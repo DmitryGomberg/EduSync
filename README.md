@@ -22,5 +22,7 @@
 
 <h3>Scope of application: the field of education, in particular our university. The application can be useful not only for first-year students, but also for all other students, their parents and others.🌌</h3>
 
+Ссылка на Trello: <a href="https://trello.com/b/rzi1xMXM/edusync-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0" >ссылка</a> <br>
+Диаграмма Ганта: <a href="https://app.ganttpro.com/shared/token/3fb9327c6f4e1d3cc68eaf33881312e83d44daa40260629ce4427decad3ff1bb/1226855" >ссылка</a>
 
 P.S. This repository was created to organize the project hierarchy
